@@ -1,0 +1,20 @@
+Local database
+
+dfir_evidence.db
+dfir_evidence.db-journal
+dfir_evidence.db-wal
+dfir_evidence.db-shm
+
+Python cache
+
+pycache/
+*.pyc
+
+Environment variables and secrets
+
+.env
+.streamlit/secrets.toml
+
+Backup files
+
+app_backup.py
